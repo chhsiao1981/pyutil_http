@@ -1,0 +1,2 @@
+grequests==0.3.0
+-e git+https://github.com/chhsiao1981/pyutil_json@b1deab7213cc13c2d1c07b17993ab8bcd2b93e19#egg=pyutil_json
